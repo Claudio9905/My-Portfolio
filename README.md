@@ -1,6 +1,6 @@
 # My Portfolio
 
-Piccolo progetto Front-End basato sul mio portfolio personale dei miei progetti con il proprio link alla repository di GitHub.
+Piccolo progetto Front-End (completamente responsive per i vari schermi) basato sul mio portfolio personale dei miei progetti con il proprio link alla repository di GitHub.
 Tecnologie usate:
 - React + Typescript + BootStrap
 <img width="1907" height="869" alt="immagine_2026-01-19_185836097" src="https://github.com/user-attachments/assets/1e6783fe-aae6-4f6d-a410-c7544ce44dc6" />
