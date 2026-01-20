@@ -47,7 +47,7 @@ const Profilo: React.FC = () => {
                 Ciao a tutti, mi chiamo Claudio, sono uno Junior Full-Stack
                 Developer con conoscenze Front-End (HTML, CSS, BOOTSTRAP,
                 JAVASCRIPT, TYPESCRIPT, REACT) e Back-End (JAVA, JAVA OOP, JPA,
-                DB RELAZIONALI, POSTGRES, SPRING). Mi piace creare applicazione
+                DB RELAZIONALI, POSTGRES, SPRING). Mi piace creare applicazioni
                 web che siano facili da usare (user-friendly) con interfacce
                 creative e intuitive.
               </p>
